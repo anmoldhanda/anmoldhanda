@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Dhanda</h1>
 <h3 align="center">I'm always eager to learn new technologies & develop new technologies based on it</h3>
 
-- 👨‍💻 All of my projects are available at [https://anmoldhandaportfolio.netlify.app/](https://anmoldhandaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anmoldhanda.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
