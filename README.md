@@ -1,5 +1,7 @@
 <h1 align="center">Hello World!!</h1>
 
+<a href="https://app.daily.dev/anmoldhanda67"><img src="https://api.daily.dev/devcards/v2/7rjp2T2XtEzue2m9993BU.png?r=96i&type=wide" width="652" alt="Anmol Dhanda 's Dev Card"/></a>
+
 ###
 
 <p align="left">My Name is Anmol i'm always looking forward for great opportunities and i'm passionate for learning new technologies & leveraging them to build innovative solutions to make the end user's life easier.</p>
